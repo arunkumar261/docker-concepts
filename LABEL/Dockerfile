@@ -1,3 +1,3 @@
 FROM almalinux:8
-LABEL TAININH="DevOps" \
+LABEL TRAINING="DevOps" \
       TRAINER="Siva" 
